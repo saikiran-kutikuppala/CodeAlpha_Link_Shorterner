@@ -1,0 +1,75 @@
+.main{
+    position: relative;
+    background-color: rgb(255, 208, 248);
+    height: 500px;
+    width: 500px;
+    left: 35%;
+    border: 10px solid black;
+    border-radius: 20px;
+}
+
+#longurl{
+    position: relative;
+    top: 20%;
+    left: 10%;
+    height: 40px;
+    width: 296px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 20px;
+    font-size: large;
+    font-weight: bold;
+}
+
+#shorten{
+    position: relative;
+    top: 20%;
+    left: 12%;
+    height: 40px;
+    width: 80px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(32, 128, 0);
+}
+
+#shorturl{
+    position: relative;
+    top: 25%;
+    left: 10%;
+    height: 40px;
+    width: 270px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding-left: 10px;
+    padding-right: 47px;
+    font-size: large;
+    font-weight: bold;
+}
+
+#copy{
+    position: relative;
+    top: 25%;
+    left: 12%;
+    height: 35px;
+    width: 50px;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-weight: bold;
+    color: white;
+    background-color: purple;
+}
+
+.main p{
+    position: relative;
+    top: 10%;
+    left: 13%;
+    height: 60px;
+    width: 400px;
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(160, 0, 0);
+}
